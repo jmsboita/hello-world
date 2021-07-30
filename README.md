@@ -1,2 +1,2 @@
 # hello-world
-Repository to test gir=thub
+Repository to test girthub
